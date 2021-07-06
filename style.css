@@ -1,0 +1,172 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    color: gray;
+}
+h2{
+    font-size: 40px;
+}
+.My-recipes-title{
+    color: gray;
+}
+.section-1-title{
+    color: orange;
+}
+.section-1 {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 120px;
+}
+
+.column-1{
+    width: 50%;
+    padding-left: 10%;
+}
+.column-1 img{
+    width: 90%;
+}
+
+.section-2 {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 200px;
+    background-image: url(images/7.png);
+    background-size: cover;
+    height: 600px;
+ 
+}
+
+.column-2{
+    width: 50%;
+    padding-left: 11%;
+    padding-right: 5%;
+    margin-right: 120px;
+}
+.column-2 img{
+    width: 87%;
+    margin-top: 50px;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#fc8f49, #fe4a2e);
+    padding: 14px 30px;
+    color: white;
+    font-weight: 400;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px rgb(199, 199, 199);
+}
+
+
+
+/* About start */
+.bg-area {
+    width: 100%;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.half-area {
+    width: 50%;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.about-bg {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.about-bg .about .image-area img {
+    width: 100%;
+    padding-top: 30px;    
+}
+.about-bg .about .text-area {
+    padding: 100px 0 0 120px;
+}
+/* about end */
+
+/* Recipie start */
+.recipe-bg {    
+    padding-top: 70px;
+    margin-bottom: 70px;
+}
+.recipe-bg .text-area {
+    display: block;
+    text-align: center;
+}
+.recipe-bg .text-area p {
+    text-align: center;
+}
+.recipe-bg .recipe .recipe-item {
+    width: 30%;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0 16px;
+    box-shadow: 10px 10px 20px #696969;
+}
+.recipe-bg .recipe .recipe-item .img {
+    margin-bottom: 40px;
+}
+.recipe-bg .recipe .recipe-item .img img {
+    width: 100%;
+}
+.recipe-bg .recipe .recipe-item p {
+    margin-bottom: 0;
+}
+/* Recipie End */
+
+/* Count start */
+.count-section {rgb(71, 58, 58)
+    width: 70%;
+    height: 200px;
+    display: flex;
+    box-shadow: 5px 5px 20px rgb(184, 184, 184);
+    margin: 10% 15% 10% 15%;
+    border-radius: 10px;
+}
+
+.count {
+    width: 25%;
+    height: 140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    font-weight: 300;
+}
+/* Count End */
+
+/*footer start */
+footer {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+.footer-title{
+    font-size: 20px;
+    padding-top: 40px;
+    color: orange;
+}
+.footer-gray-color{
+    color: gray;
+}
+/*footer End */
+
+/*© shamiur rahman 2021*/
