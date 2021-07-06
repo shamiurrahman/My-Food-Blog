@@ -33,7 +33,7 @@ h2{
     display: flex;
     margin-top: 60px;
     margin-bottom: 200px;
-    background-image: url(images/7.png);
+    background-image: url(images/background.png);
     background-size: cover;
     height: 600px;
  
@@ -82,7 +82,7 @@ img {
 }
 
 .about-bg {
-    background-image: url(images/7.png);
+    background-image: url(images/background.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
