@@ -159,6 +159,7 @@ p{
 .testimonial {
     display: flex;
     margin-top: 50px;
+    margin-bottom: -20px;
     background: url(img/background.png);
     background-size: cover;
     background-repeat: no-repeat;
