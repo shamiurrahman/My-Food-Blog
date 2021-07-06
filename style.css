@@ -129,7 +129,7 @@ img {
 /* Recipie End */
 
 /* Count start */
-.count-section {rgb(71, 58, 58)
+.count-section {rgb(71, 58, 58);
     width: 70%;
     height: 200px;
     display: flex;
