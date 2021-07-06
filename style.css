@@ -163,6 +163,7 @@ p{
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
+    padding: 0px;
 }
 
 .testimonial-img {
@@ -190,21 +191,6 @@ p{
     font-family: 'Manrope', sans-serif;
     font-size: 24px;
     width: 500px;
-}
-
-.quotes-left {
-    font-size: 60px;
-    font-family: monospace;
-    padding-top: 40px;
-    width: 445px;
-}
-
-.quotes-right {
-    font-size: 60px;
-    font-family: monospace;
-    padding-top: 40px;
-    text-align: right;
-    width: 445px;
 }
 
 .client-name {
